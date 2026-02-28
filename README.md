@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2MzQzNTY0NTY2MzQzNTY0NTY2MzQzNTY0NTY2MzQzNTY0NTY2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="AI Matrix Banner" width="100%" />
+  
 
   # 🚀 Gagan G.N. — Portfolio v2
   
